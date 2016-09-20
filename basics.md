@@ -5,4 +5,5 @@
 * 'git add <file>' - places the file in the git staging area
 * 'git commit' - it commit the changes to repository??
 * 'git diff' - shows the changes in the repository??
+* 'git log' - reverse chrono-order of commits
 
