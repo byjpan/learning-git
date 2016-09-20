@@ -10,3 +10,6 @@
 * 'git pull <remote> <branch>' - get changes from remote repos. into local dir
 forking a repos.: create a complete copy of an existing github repos. to enable collab. or staling lol
 * $ git push origin master
+
+
+I'm adding a line of text.
